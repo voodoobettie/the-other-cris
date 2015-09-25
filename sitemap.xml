@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+<loc>http://ongamira.com/</loc>
+<lastmod>2007-05-29</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>http://ongamira.com/home.html</loc>
+<lastmod>2007-05-29</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc>http://ongamira.com/home_esp.html</loc>
+<lastmod>2007-05-29</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.2</priority>
+</url>
+</urlset>
